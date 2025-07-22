@@ -62,7 +62,7 @@
     "@types/supertest": "^2.0.8",
     "@types/yargs": "^15.0.4",
     "babel-jest": "^25.2.4",
-    "jest": "^25.2.4",
+    "jest": "^30.0.5",
     "jest-plugin-context": "^2.9.0",
     "jest-sonar-reporter": "^2.0.0",
     "npm-check": "^5.9.2",
